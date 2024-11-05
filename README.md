@@ -1,6 +1,6 @@
 ## Hi there i’m [ColorCode](https://colorcodeweb.dev/) 👋
 
-![ColorCode Banner](https://colorcodeweb.dev/og.png)
+[![ColorCode Banner](https://colorcodeweb.dev/og.png)](https://colorcodeweb.dev/)
 
 ### About Me ⚡
 Hello! I'm Benjamín Aguilar, a passionate web developer and the mind behind Color Code, focused on creating custom websites and hosting services.
