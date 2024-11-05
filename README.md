@@ -2,7 +2,12 @@
 
 ![ColorCode Banner](https://colorcodeweb.dev/og.png)
 
-
+### About Me ⚡
+Hello! I'm Benjamín Aguilar, a passionate web developer and the mind behind Color Code, focused on creating custom websites and hosting services.
+I specialize in designing and developing platforms that not only capture visual attention but also provide an excellent user experience.
+- 🧑‍💻 Web Developer
+- 🌱 Frontend
+- 👾 Backend
 
 <!--
 **benjaAguilar/benjaAguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
