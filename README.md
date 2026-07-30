@@ -1,4 +1,4 @@
-I like to learn by building :)
+> I like to learn by building :)
 
 - Now working on `ephemera` [check it out!](https://github.com/benjaAguilar/ephemera)
 
