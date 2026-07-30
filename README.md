@@ -1,6 +1,6 @@
 I like to learn by building :)
 
-- Now working on `ephemera` (check it out!)[https://github.com/benjaAguilar/ephemera]
+- Now working on `ephemera` [check it out!](https://github.com/benjaAguilar/ephemera)
 
 <!--
 **benjaAguilar/benjaAguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
